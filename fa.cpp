@@ -3,18 +3,6 @@
 #include<string>
 using namespace std;
 
-//------------------------------------------------
-// CS421 File fa.cpp for HW2B
-// Your name: Micah McCarver
-//------------------------------------------------
-
-// ** Change this to fit the HW2B specification - look for **
-// ** Must have the same types of tracing couts as mytoken.
-// ** Must complete the ** comments with RE
-
-// ---------- DFAs follow -------------------------
-
-// MYTOKEN DFA done by Rika Sensei has a sample
 // This FA is for a b^+
 bool mytoken(string s)
 { 
